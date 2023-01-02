@@ -1,0 +1,4 @@
+board:
+  size: [3, 3]
+  spawn_values: [2, 4]
+  spawn_probs: [0.9, 0.1]
